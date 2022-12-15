@@ -1,0 +1,37 @@
+Actividades que realizan los scripts disponibles, sobre el archivo de texto elegido:
+
+blankLinesCounter.sh
+Contador de líneas en blanco.
+
+
+blockSelection.sh
+Selección de oración y/o párrafo en base a un número de entrada.
+
+caseConverter.sh
+Invertir minúsculas a mayúsculas, y viceversa, de todas las palabras.
+
+findNames.sh
+Identificador de palabras que comienzan con mayúscula (sean nombres propios o no).
+
+palindromeDetection.sh
+Mostrar palabras palíndromo 
+
+
+statsSentences.sh
+Indicador de longitud de oraciones (la más larga, la más corta y la de longitud promedio).
+
+statsUsageWords.sh
+Indicador de uso de palabras, de al menos cuatro letras.
+Top de las 10 más usadas.
+
+statsWords.sh
+Indicador de longitud de palabras (la más larga, la más corta y el promedio de longitud).
+
+
+substringReplace.sh
+Reemplazo de subcadenas, que considere diferencias entre minúsculas y mayúsculas, pero ignore acentos. Recibe dos cadenas, y cada aparición de 
+cadena1 debe reemplazarse por la cadena2.
+
+
+ 
+

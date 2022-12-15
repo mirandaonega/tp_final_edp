@@ -1,0 +1,30 @@
+Meta enseña a una IA a mentir y crear estrategias
+Una IA a la que se le enseñe a jugar a un juego de mesa que implique negociar con humanos e inferir sus motivos podría tener aplicaciones para los ‘chatbots’ empresariales. Así lo confirma Meta.
+
+Meta ha entrenado a un agente de inteligencia artificial (IA) para jugar a un juego de mesa que consiste en chatear con otros jugadores para persuadirlos de que apoyen sus estrategias y luego traicionarlos. La compañía propietaria de Facebook, Instagram y WhatsApp ha asegurado que su Cicerón AI podría tener aplicaciones generalizadas en un futuro cercano. Entre ellas se incluyen el desarrollo de asistentes virtuales más inteligentes con el uso combinado de tecnologías como el procesamiento del lenguaje natural (PNL) y el razonamiento estratégico. Así lo ha confirmado la firma de Menlo Park mediante una publicación de blog.
+
+Siguiendo esta misma estela, Meta aseguró en un artículo de investigación publicado en la revista académica Science que su Cicerón AI logró un rendimiento a nivel humano en el juego de mesa de estrategias Diplomacy. Así, en una liga en línea donde jugó 40 juegos contra 82 humanos logró clasificarse en el 10% superior de los participantes que jugaron más de un juego.
+
+
+Sobre Diplomacy
+El juego planteó un desafío para el agente de inteligencia artificial, ya que ganar requería que entendiera si sus oponentes estaban fanfarroneando o planeando estrategias de cierta manera para ganar el juego. La IA necesitaba desplegar un cierto nivel de empatía mientras jugaba para formar colaboraciones con otros jugadores, algo que las IA no necesitaban hacer anteriormente en juegos como el ajedrez contra oponentes humanos.
+
+Los agentes de IA han ido mejorando en los juegos de estrategia a lo largo de los años: en 1997, el software Deep Blue de IBM derrotó al campeón mundial de ajedrez Gary Kasparov, y en 2016, AlphaGo de DeepMind venció al mejor jugador de Go, Lee Sedol. Facebook también ha desarrollado otro motor de inteligencia artificial que puede superar a los humanos en el póquer.
+
+ 
+
+Razonamiento estratégico
+Cicerón se basa en dos componentes tech principales: el razonamiento estratégico y el procesamiento del lenguaje natural. Mientras que el motor de razonamiento estratégico predice los movimientos de otros jugadores y usa esa información para formar una estrategia propia, el motor de procesamiento de lenguaje natural genera mensajes y analiza las respuestas en las conversaciones con otros jugadores para negociar y llegar a un acuerdo, explicaron los investigadores.
+
+Para ayudar al agente de IA a generar conversaciones relevantes, los investigadores comenzaron con un modelo de generación de lenguaje natural de 2.700 millones de parámetros entrenado previamente a partir de textos de Internet y lo ajustaron con conversaciones entre jugadores humanos en más de 40.000 juegos de webDiplomacy.net. “Desarrollamos técnicas para anotar automáticamente los mensajes en los datos de entrenamiento con los movimientos planificados correspondientes en el juego, de modo que en el momento de la inferencia podamos controlar la generación de diálogo para discutir acciones específicas deseadas para el agente y sus compañeros de conversación”, aseveraron los investigadores.
+
+Meta ha abierto el código de Cicerón para que otros investigadores puedan basarse en las capacidades del agente de IA. Asimismo, la empresa ha creado un portal para invitar a los usuarios a emprender propuestas de investigación en el área de la cooperación humano-IA a través del PNL utilizando Diplomacy como eje fundamental.
+
+ 
+
+Con la mirada en el futuro
+Los gigantes tecnológicos compiten entre sí para desarrollar asistentes virtuales independientes más inteligentes para respaldar una variedad de casos de uso comercial, que van desde los centros de llamadas hasta agentes de IA que pueden realizar análisis de sentimientos y enseñar nuevas habilidades a un individuo. Según un informe de Fortune Business Insights, se prevé que el mercado mundial de procesamiento del lenguaje natural (PNL), que incluye a dichos asistentes, crezca de 26.400 millones de dólares en 2022 a 161.800 millones de dólares en 2029.
+
+En este escenario, los investigadores de Meta parecían sugerir que el éxito de Cicerón en materia de diplomacia reemplaza las capacidades de otros asistentes virtuales disponibles en la actualidad: “Por ejemplo, los asistentes de IA actuales pueden completar tareas simples de preguntas y respuestas como decirte la temperatura ambiente, pero, ¿y si pudieran mantener una conversación a largo plazo con el objetivo de enseñarte una nueva habilidad?”.
+
+No obstante, a pesar de este cuestionamiento, Cicerón tampoco está preparado para conversaciones a largo plazo, ya que su razonamiento es estrictamente a corto plazo. Como dijeron los investigadores de Meta en el artículo de Science: “Desde una perspectiva estratégica, Cicerón razonó sobre el diálogo únicamente en términos de las acciones de los jugadores durante el turno correspondiente, no modeló cómo su diálogo podría afectar a la relación con otros jugadores a largo plazo”.

@@ -7,6 +7,7 @@ COPY "menu.sh" /
 COPY "opciones.txt" /
 
 WORKDIR /
+RUN chmod +x /menu.sh
 
 ENTRYPOINT ["./menu.sh"]
 
